@@ -310,7 +310,7 @@ const AirportConciergeForm: React.FC = () => {
                   Personal Details
                 </h2>
                 <span className="text-red-500 text-sm">
-                  *Required {import.meta.env.VITE_APP_TO_EMAIL}
+                  *Required
                 </span>
               </div>
 
